@@ -1,3 +1,5 @@
+// 22962826
+
 import { left, right } from "./input.js";
 
 const result = left.reduce((acc, l) => {

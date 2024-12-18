@@ -1,3 +1,5 @@
+// 2192892
+
 import { left, right } from "./input.js";
 
 left.sort((a, b) => a - b);

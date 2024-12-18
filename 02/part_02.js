@@ -1,3 +1,5 @@
+// 577
+
 import input from "./input.js";
 
 const isIncremental = (value) => value > 0 && value <= 3;
